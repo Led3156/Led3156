@@ -15,5 +15,3 @@
 </div><br/>
 
 Apaixonado por tecnologia, entrei no ramo da programção agora e atualmente estudo a linguagem JS
-
-[![Snake animation](https://github.com/led3156/led3156/blob/output/github-contribution-grid-snake.svg)
