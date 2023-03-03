@@ -13,10 +13,7 @@
 <img align="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "/>
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/>
 </div><br/>
-<div align="center">
-
-  ![Snake animation](https://github.com/led3156/led3156/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 Apaixonado por tecnologia, entrei no ramo da programção agora e atualmente estudo a linguagem JS
+ 
+ ![Snake animation](https://github.com/led3156/led3156/blob/output/github-contribution-grid-snake.svg)
