@@ -14,6 +14,7 @@
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/>
 </div><br/>
 
-Apaixonado por tecnologia, entrei no ramo da programção agora e atualmente estudo a linguagem JS
+ Apaixonado por tecnologia, entrei no ramo da programção agora e atualmente estudo a linguagem JS
  
  ![Snake animation](https://github.com/led3156/led3156/blob/output/github-contribution-grid-snake.svg)
+  
