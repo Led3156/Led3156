@@ -2,7 +2,7 @@
 ### Olá me chamo Khaled Dib 👋
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khaled_dib1/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-dib-276823206")
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-dib-276823206")
 
 ![Khaled GitHub stats](https://github-readme-stats.vercel.app/api?username=Led3156&show_icons=true&theme=tokyonight)
 
